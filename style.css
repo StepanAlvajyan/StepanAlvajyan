@@ -1,0 +1,224 @@
+
+.h2{
+font-family: cursive;
+
+}
+.navigacia{
+font-size: 30px;
+text-align: center;
+padding: 15px;
+
+}
+.vernagir{
+ background-color:pink;
+ text-align: center;
+ padding: 50px;
+}
+
+.NatureBlog{
+font-size: 50px;
+font-family: cursive;
+padding: 15px;
+}
+.Home{
+color:red;
+}
+
+.line1{
+display: flex;
+justify-content: center;
+margin:20px 20px;
+padding:30px 30px
+max-width: 200px;
+
+}
+
+.line2{
+display: flex;
+justify-content: center;
+margin:20px 20px;
+padding:20px 20px;
+}
+.line3{
+display: flex;
+justify-content: center;
+margin:20px 20px;
+padding:20px 0px;
+}
+.line4{
+display: flex;
+justify-content: center;
+margin:20px 20px;
+padding:20px 20px;
+}
+.a{
+height:300px;
+width: 300px;
+display: flex;
+margin:20px 20px;
+
+}
+.p1{
+background:white;
+text-align: center;
+border: 2px solid gray;
+position: absolute;
+top: 650px;
+height:140px;
+width: 265px;
+left: 200px;
+font: Helvetica, Sans-Serif;
+font-size: 25px;
+
+}
+.p2{
+background:white;
+text-align: center;
+border: 2px solid gray;
+position: absolute;
+top: 650px;
+height:140px;
+width: 265px;
+left: 540px;
+font: Helvetica, Sans-Serif;
+font-size: 25px;
+}
+
+.p3{
+background:white;
+text-align: center;
+border: 2px solid gray;
+position: absolute;
+top: 650px;
+height:140px;
+width: 265px;
+left: 880px;
+font: Helvetica, Sans-Serif;
+font-size: 25px;
+}
+.p4{
+background:white;
+text-align: center;
+border: 2px solid gray;
+position: absolute;
+top: 1000px;
+height:140px;
+width: 265px;
+left: 200px;
+font: Helvetica, Sans-Serif;
+font-size: 25px;
+}
+.p5{
+background:white;
+text-align: center;
+border: 2px solid gray;
+position: absolute;
+top: 1000px;
+height:140px;
+width: 265px;
+left:540px;
+font: Helvetica, Sans-Serif;
+font-size: 25px;
+}
+
+.p6{
+background:white;
+text-align: center;
+border: 2px solid gray;
+position: absolute;
+top: 1000px;
+height:140px;
+width: 265px;
+left: 880px;
+font: Helvetica, Sans-Serif;
+font-size: 25px;
+}
+.p7{
+background:white;
+text-align: center;
+border: 2px solid gray;
+position: absolute;
+top: 1450px;
+height:140px;
+width: 265px;
+left: 200px;
+font: Helvetica, Sans-Serif;
+font-size: 25px;
+}
+.p8{
+background:white;
+text-align: center;
+border: 2px solid gray;
+position: absolute;
+top: 1450px;
+height:140px;
+width: 265px;
+left: 540px;
+font: Helvetica, Sans-Serif;
+font-size: 25px;
+}
+.p9{
+background:white;
+text-align: center;
+border: 2px solid gray;
+position: absolute;
+top: 1450px;
+height:140px;
+width: 265px;
+left: 880px;
+font: Helvetica, Sans-Serif;
+font-size: 25px;
+}
+.p10{
+background:white;
+text-align: center;
+border: 2px solid gray;
+position: absolute;
+top: 1850px;
+height:140px;
+width: 265px;
+left: 200px;
+font: Helvetica, Sans-Serif;
+font-size: 25px;
+}
+.p11{
+background:white;
+text-align: center;
+border: 2px solid gray;
+position: absolute;
+top: 1850px;
+height:140px;
+width: 265px;
+left: 540px;
+font: Helvetica, Sans-Serif;
+font-size: 25px;
+}
+.p12{
+background:white;
+text-align: center;
+border: 2px solid gray;
+position: absolute;
+top: 1850px;
+height:140px;
+width: 265px;
+left: 880px;
+font: Helvetica, Sans-Serif;
+font-size: 25px;
+}
+.button{
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  margin: 40px 600px;
+  color:gray;
+}
+
+.navigacia1{
+font-size: 15px;
+text-align: center;
+font-family: "Gill Sans", sans-serif;
+}
+h3{
+color:red;
+font-size: 20px;
+}
